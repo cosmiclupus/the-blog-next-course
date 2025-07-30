@@ -1,0 +1,20 @@
+{
+  "window.zoomLevel": 1,
+  "breadcrumbs.enabled": false,
+  "editor.fontSize": 24,
+  "debug.console.fontSize": 24,
+  "editor.glyphMargin": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.lineNumber": "off",
+  "files.eol": "\n",
+  "workbench.editor.labelFormat": "short",
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+}
